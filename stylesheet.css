@@ -3,17 +3,36 @@
 }
 
 #logo {
-  border: 2px dashed red;
-  background-color: green;
+  /*border: 2px dashed red;
+  background-color: green;*/
 
-  margin-left: auto;
-  margin-right:auto;
-  margin-top: 5em;
+  margin-left: 27%;
+  margin-right:40%;
+  margin-top: 10em;
   width:40em;
 
 
   /*margin-top:
   min-height:10em;*/
+}
+
+#input_box {
+
+  /*background-color: red;*/
+  margin-left: 30%;
+  margin-right: 40%;
+  width: 25em;
+  margin-top: 2em;
+
+}
+
+#search_buttons {
+  margin-left: 40%;
+  margin-right:40%;
+  margin-top: 1em;
+  width: 50%;
+  /*background-color: green;*/
+
 }
 
 /*
